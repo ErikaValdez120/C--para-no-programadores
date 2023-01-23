@@ -1,0 +1,9 @@
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Desafios\Desafio3\Desafio3\bin\Debug\Desafio3.exe
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Desafios\Desafio3\Desafio3\bin\Debug\Desafio3.pdb
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Desafios\Desafio3\Desafio3\obj\Debug\Desafio3.csproj.AssemblyReference.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Desafios\Desafio3\Desafio3\obj\Debug\Desafio3.Form1.resources
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Desafios\Desafio3\Desafio3\obj\Debug\Desafio3.Properties.Resources.resources
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Desafios\Desafio3\Desafio3\obj\Debug\Desafio3.csproj.GenerateResource.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Desafios\Desafio3\Desafio3\obj\Debug\Desafio3.csproj.CoreCompileInputs.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Desafios\Desafio3\Desafio3\obj\Debug\Desafio3.exe
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Desafios\Desafio3\Desafio3\obj\Debug\Desafio3.pdb

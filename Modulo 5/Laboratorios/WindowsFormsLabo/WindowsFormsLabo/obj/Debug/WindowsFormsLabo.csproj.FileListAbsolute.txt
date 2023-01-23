@@ -1,0 +1,9 @@
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\WindowsFormsLabo\WindowsFormsLabo\bin\Debug\WindowsFormsLabo.exe
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\WindowsFormsLabo\WindowsFormsLabo\bin\Debug\WindowsFormsLabo.pdb
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\WindowsFormsLabo\WindowsFormsLabo\obj\Debug\WindowsFormsLabo.csproj.AssemblyReference.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\WindowsFormsLabo\WindowsFormsLabo\obj\Debug\WindowsFormsLabo.Form1.resources
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\WindowsFormsLabo\WindowsFormsLabo\obj\Debug\WindowsFormsLabo.Properties.Resources.resources
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\WindowsFormsLabo\WindowsFormsLabo\obj\Debug\WindowsFormsLabo.csproj.GenerateResource.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\WindowsFormsLabo\WindowsFormsLabo\obj\Debug\WindowsFormsLabo.csproj.CoreCompileInputs.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\WindowsFormsLabo\WindowsFormsLabo\obj\Debug\WindowsFormsLabo.exe
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\WindowsFormsLabo\WindowsFormsLabo\obj\Debug\WindowsFormsLabo.pdb

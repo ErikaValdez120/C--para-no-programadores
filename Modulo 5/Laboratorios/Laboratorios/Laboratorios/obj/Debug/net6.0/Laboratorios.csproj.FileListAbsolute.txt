@@ -1,0 +1,15 @@
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\Laboratorios\Laboratorios\bin\Debug\net6.0\Laboratorios.exe
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\Laboratorios\Laboratorios\bin\Debug\net6.0\Laboratorios.deps.json
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\Laboratorios\Laboratorios\bin\Debug\net6.0\Laboratorios.runtimeconfig.json
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\Laboratorios\Laboratorios\bin\Debug\net6.0\Laboratorios.dll
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\Laboratorios\Laboratorios\bin\Debug\net6.0\Laboratorios.pdb
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\Laboratorios\Laboratorios\obj\Debug\net6.0\Laboratorios.csproj.AssemblyReference.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\Laboratorios\Laboratorios\obj\Debug\net6.0\Laboratorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\Laboratorios\Laboratorios\obj\Debug\net6.0\Laboratorios.AssemblyInfoInputs.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\Laboratorios\Laboratorios\obj\Debug\net6.0\Laboratorios.AssemblyInfo.cs
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\Laboratorios\Laboratorios\obj\Debug\net6.0\Laboratorios.csproj.CoreCompileInputs.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\Laboratorios\Laboratorios\obj\Debug\net6.0\Laboratorios.dll
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\Laboratorios\Laboratorios\obj\Debug\net6.0\refint\Laboratorios.dll
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\Laboratorios\Laboratorios\obj\Debug\net6.0\Laboratorios.pdb
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\Laboratorios\Laboratorios\obj\Debug\net6.0\Laboratorios.genruntimeconfig.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Laboratorios\Laboratorios\Laboratorios\obj\Debug\net6.0\ref\Laboratorios.dll

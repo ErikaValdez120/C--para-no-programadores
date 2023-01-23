@@ -1,0 +1,8 @@
+C:\Users\Geraldine\source\repos\etapa-2\Integrador\obj\Debug\Integrador.csproj.AssemblyReference.cache
+C:\Users\Geraldine\source\repos\etapa-2\Integrador\obj\Debug\Integrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Geraldine\source\repos\etapa-2\Integrador\obj\Debug\Integrador.csproj.CoreCompileInputs.cache
+C:\Users\Geraldine\source\repos\etapa-2\Integrador\bin\Debug\Integrador.exe.config
+C:\Users\Geraldine\source\repos\etapa-2\Integrador\bin\Debug\Integrador.exe
+C:\Users\Geraldine\source\repos\etapa-2\Integrador\bin\Debug\Integrador.pdb
+C:\Users\Geraldine\source\repos\etapa-2\Integrador\obj\Debug\Integrador.exe
+C:\Users\Geraldine\source\repos\etapa-2\Integrador\obj\Debug\Integrador.pdb

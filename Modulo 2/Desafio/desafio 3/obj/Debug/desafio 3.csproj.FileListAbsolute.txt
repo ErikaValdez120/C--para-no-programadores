@@ -1,0 +1,8 @@
+C:\Users\Geraldine\source\repos\Desafio\desafio 3\bin\Debug\desafio 3.exe.config
+C:\Users\Geraldine\source\repos\Desafio\desafio 3\bin\Debug\desafio 3.exe
+C:\Users\Geraldine\source\repos\Desafio\desafio 3\bin\Debug\desafio 3.pdb
+C:\Users\Geraldine\source\repos\Desafio\desafio 3\obj\Debug\desafio 3.csproj.AssemblyReference.cache
+C:\Users\Geraldine\source\repos\Desafio\desafio 3\obj\Debug\desafio 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Geraldine\source\repos\Desafio\desafio 3\obj\Debug\desafio 3.csproj.CoreCompileInputs.cache
+C:\Users\Geraldine\source\repos\Desafio\desafio 3\obj\Debug\desafio 3.exe
+C:\Users\Geraldine\source\repos\Desafio\desafio 3\obj\Debug\desafio 3.pdb

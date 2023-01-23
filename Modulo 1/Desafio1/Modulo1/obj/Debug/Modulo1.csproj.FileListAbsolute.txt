@@ -1,0 +1,8 @@
+C:\Users\ervaldez\source\repos\Desafio1\Modulo1\bin\Debug\Modulo1.exe.config
+C:\Users\ervaldez\source\repos\Desafio1\Modulo1\bin\Debug\Modulo1.exe
+C:\Users\ervaldez\source\repos\Desafio1\Modulo1\bin\Debug\Modulo1.pdb
+C:\Users\ervaldez\source\repos\Desafio1\Modulo1\obj\Debug\Modulo1.csproj.AssemblyReference.cache
+C:\Users\ervaldez\source\repos\Desafio1\Modulo1\obj\Debug\Modulo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ervaldez\source\repos\Desafio1\Modulo1\obj\Debug\Modulo1.csproj.CoreCompileInputs.cache
+C:\Users\ervaldez\source\repos\Desafio1\Modulo1\obj\Debug\Modulo1.exe
+C:\Users\ervaldez\source\repos\Desafio1\Modulo1\obj\Debug\Modulo1.pdb

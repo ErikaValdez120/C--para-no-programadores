@@ -1,0 +1,15 @@
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 4\Desafios\Dessafios\Dessafios\bin\Debug\net6.0\Dessafios.exe
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 4\Desafios\Dessafios\Dessafios\bin\Debug\net6.0\Dessafios.deps.json
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 4\Desafios\Dessafios\Dessafios\bin\Debug\net6.0\Dessafios.runtimeconfig.json
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 4\Desafios\Dessafios\Dessafios\bin\Debug\net6.0\Dessafios.dll
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 4\Desafios\Dessafios\Dessafios\bin\Debug\net6.0\Dessafios.pdb
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 4\Desafios\Dessafios\Dessafios\obj\Debug\net6.0\Dessafios.csproj.AssemblyReference.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 4\Desafios\Dessafios\Dessafios\obj\Debug\net6.0\Dessafios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 4\Desafios\Dessafios\Dessafios\obj\Debug\net6.0\Dessafios.AssemblyInfoInputs.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 4\Desafios\Dessafios\Dessafios\obj\Debug\net6.0\Dessafios.AssemblyInfo.cs
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 4\Desafios\Dessafios\Dessafios\obj\Debug\net6.0\Dessafios.csproj.CoreCompileInputs.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 4\Desafios\Dessafios\Dessafios\obj\Debug\net6.0\Dessafios.dll
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 4\Desafios\Dessafios\Dessafios\obj\Debug\net6.0\refint\Dessafios.dll
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 4\Desafios\Dessafios\Dessafios\obj\Debug\net6.0\Dessafios.pdb
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 4\Desafios\Dessafios\Dessafios\obj\Debug\net6.0\Dessafios.genruntimeconfig.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 4\Desafios\Dessafios\Dessafios\obj\Debug\net6.0\ref\Dessafios.dll

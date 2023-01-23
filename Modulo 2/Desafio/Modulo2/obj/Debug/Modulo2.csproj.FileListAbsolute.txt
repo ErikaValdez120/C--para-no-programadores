@@ -1,0 +1,8 @@
+C:\Users\Geraldine\source\repos\Desafio\Modulo2\bin\Debug\Modulo2.exe.config
+C:\Users\Geraldine\source\repos\Desafio\Modulo2\bin\Debug\Modulo2.exe
+C:\Users\Geraldine\source\repos\Desafio\Modulo2\bin\Debug\Modulo2.pdb
+C:\Users\Geraldine\source\repos\Desafio\Modulo2\obj\Debug\Modulo2.csproj.AssemblyReference.cache
+C:\Users\Geraldine\source\repos\Desafio\Modulo2\obj\Debug\Modulo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Geraldine\source\repos\Desafio\Modulo2\obj\Debug\Modulo2.csproj.CoreCompileInputs.cache
+C:\Users\Geraldine\source\repos\Desafio\Modulo2\obj\Debug\Modulo2.exe
+C:\Users\Geraldine\source\repos\Desafio\Modulo2\obj\Debug\Modulo2.pdb

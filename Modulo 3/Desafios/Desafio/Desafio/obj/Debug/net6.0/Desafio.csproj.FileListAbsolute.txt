@@ -1,0 +1,15 @@
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 3\Desafios\Desafio\Desafio\bin\Debug\net6.0\Desafio.exe
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 3\Desafios\Desafio\Desafio\bin\Debug\net6.0\Desafio.deps.json
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 3\Desafios\Desafio\Desafio\bin\Debug\net6.0\Desafio.runtimeconfig.json
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 3\Desafios\Desafio\Desafio\bin\Debug\net6.0\Desafio.dll
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 3\Desafios\Desafio\Desafio\bin\Debug\net6.0\Desafio.pdb
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 3\Desafios\Desafio\Desafio\obj\Debug\net6.0\Desafio.csproj.AssemblyReference.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 3\Desafios\Desafio\Desafio\obj\Debug\net6.0\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 3\Desafios\Desafio\Desafio\obj\Debug\net6.0\Desafio.AssemblyInfoInputs.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 3\Desafios\Desafio\Desafio\obj\Debug\net6.0\Desafio.AssemblyInfo.cs
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 3\Desafios\Desafio\Desafio\obj\Debug\net6.0\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 3\Desafios\Desafio\Desafio\obj\Debug\net6.0\Desafio.dll
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 3\Desafios\Desafio\Desafio\obj\Debug\net6.0\refint\Desafio.dll
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 3\Desafios\Desafio\Desafio\obj\Debug\net6.0\Desafio.pdb
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 3\Desafios\Desafio\Desafio\obj\Debug\net6.0\Desafio.genruntimeconfig.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 3\Desafios\Desafio\Desafio\obj\Debug\net6.0\ref\Desafio.dll
